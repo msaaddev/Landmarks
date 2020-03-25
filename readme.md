@@ -1,3 +1,3 @@
 # Landmarks
 
-An IOS built for learning SwiftUI.
+An IOS app built for learning SwiftUI.
